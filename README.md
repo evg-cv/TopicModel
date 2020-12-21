@@ -1,4 +1,4 @@
-## TopicClassifier
+## TopicModel
 
 ## Overview
 
@@ -44,8 +44,6 @@ used for Natural Language Processing.
         pip3 install -r requirements.txt
         python3 -m nltk.downloader all
     ```
-
-- Please create the "model" folder in the "utils" folder of this project directory and copy the model into the "model" folder
  
 ## Execution
 
